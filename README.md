@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Noob-coder-f
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning javascript 
+- 👀 I’m interested in software development.
+- 🌱 I’m currently learning MERN STACK 
 - 💞️ I’m looking to collaborate on any project.
 - 📫 How to reach me ..mdfaishalmansoori655@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I'm noob in this field 
+- 😄 Pronouns: He
+- ⚡ Fun fact: I'm Fresher. 
 
 <!---
 Noob-coder-f/Noob-coder-f is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
